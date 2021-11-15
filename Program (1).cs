@@ -95,6 +95,11 @@ namespace Aufgabe6
                             Console.WriteLine("Sie entnehmen dem Schrank eine große schwarze Tasse. Sie ist sauber. Sie stellen Sie unter den Auslauf der Jura-Maschine und starten diese.");
                             Console.WriteLine("Sie hören die interne Kaffeemühle, gefolgt von dem typischen Brummen eines Kaffeevollautomats.");
                             Console.WriteLine("Ein feines Kaffeearoma durchströmt den Raum. Die Vorfreude auf den Kaffee wächst mit der Füllstand der Tasse. Nach ein paar Sekunden ist die Tasse gefüllt.");
+                            Console.WriteLine("   ;)(; \n" +
+"  :----:  \n" +
+" C|====|  \n" +
+"  |    |  \n" +
+"  `----'  \n");
                             Console.WriteLine("Sie entnehmen die Tasse und schluerfen direkt den ersten Schluck ab. Der Kaffee schmeckt großartig. Die Katze kommt zu Ihnen und zeigt auf die Tasse, begleitet von ");
                             Console.WriteLine("\"Miauuuuuuuuu\". Sie fragen sich, ob die Katze einen Schluck Kaffee möchte und halten ihr die Tasse hin. Tatsächlich führt die Katze ihre Zunge in den heißen Kaffee ");
                             Console.WriteLine("und beginnt diesen zu trinken. Sie wirkt äußerstt zufrieden. Kein Wunder, der Kaffee ist wirklich klasse.");
