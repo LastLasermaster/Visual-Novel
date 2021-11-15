@@ -76,8 +76,15 @@ namespace Aufgabe6
 
                         if (Auswahl("suchen", "trinken")) //           #7
                         {
-                            Console.WriteLine("Der Eigentümer kommt während Ihrer Suche nach Hause. Gegen aller Erwartung " +
-                                "ist dieser ein Zombie aus der Spielereihe Resident Evil und frisst Sie auf.");
+                            Console.WriteLine("Sie entnehmen dem Schrank eine große schwarze Tasse. Sie ist sauber. Sie stellen Sie unter den Auslauf der Jura-Maschine und starten diese.");
+                            Console.WriteLine("Sie hören die interne Kaffeemühle, gefolgt von dem typischen Brummen eines Kaffeevollautomats.");
+                            Console.WriteLine("Ein feines Kaffeearome durchströmt den Raum. Die Vorfreude auf den Kaffee wächst mit der Füllstand der Tasse. Nach ein paar Sekunden ist die Tasse gefüllt.");
+                            Console.WriteLine("Sie entnehmen die Tasse und schluerfen direkt den ersten Schluck ab. Der Kaffee schmeckt großartig. Die Katze kommt zu Ihnen und zeigt auf die Tasse, begleitet von ");
+                            Console.WriteLine("\"Miauuuuuuuuu\". Sie fragen sich, ob die Katze einen Schluck Kaffee möchte und halten ihr die Tasse hin. Tatsächlich führt die Katze ihre Zunge in den heißen Kaffee ");
+                            Console.WriteLine("und beginnt diesen zu trinken. Sie wirkt äußerstt zufrieden. Kein Wunder, der Kaffee ist wirklich klasse.");
+                            Console.WriteLine("Plötzlich beginnt die Katze gleißend hell zu leuchten, und auf einmal hat sie sich in eine wunderschöne Prinzessin verwandelt, die sich unsterblich in Sie verliebt hat.");
+                            Console.WriteLine("Sie hebt ihre Arme in die Luft und dort, wo einst die Tür zur Küche war, öffnet sich ein Portal. Sie schreiten mit der Prinzessin hindurch und befinden sich nun in ");
+                            Console.WriteLine("dem Palast der Prinzessin. Und Sie leben glücklich und zufrieden bis an Ihr Lebensende zusammen.");
                         }
                         else  //trinken          #8
                         {
