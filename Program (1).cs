@@ -41,7 +41,7 @@ namespace Aufgabe6
                     "Wählen Sie weise.");
                 Console.Write("Eingabe: ");
 
-                if (Auswahl("setzen", "Kaffee")) //setzen zweite Wahl -> dirtter Raum     #3
+                if (Auswahl("setzen", "Kaffee")) //setzen zweite Wahl -> dritter Raum     #3
                 {
                     Console.WriteLine("Sie sind großer Fan der Serie wie ich sehe. Ich auch.");
                     Console.WriteLine("Die Katze kommt zu Ihnen auf die Couch und macht es sich bequem. Was tun Sie " +
@@ -74,7 +74,7 @@ namespace Aufgabe6
                         Console.WriteLine("Ganz ruhig schnurrend lässt sich die Katze weiter streicheln. Eine neue " +
                             "Freundschaft scheint zu entstehen.");
                         Console.WriteLine("Sie stellen leider fest, dass Sie allergisch auf Katzenhaare reagieren und erleiden einen anaphylaktischen Schock.");
-                        Console.WriteLine("Sie spüren wie sich Ihre Bronchien eng zusammenziehen sterben einen qualvollen Erstickungstod");
+                        Console.WriteLine("Sie spüren wie sich Ihre Bronchien eng zusammenziehen und sterben einen qualvollen Erstickungstod");
                     }
                     else //Fenster              #5
                     {
@@ -100,7 +100,7 @@ namespace Aufgabe6
 " C|====|  \n" +
 "  |    |  \n" +
 "  `----'  \n");
-                        Console.WriteLine("Sie entnehmen die Tasse und schluerfen direkt den ersten Schluck ab. Der Kaffee schmeckt großartig. Die Katze kommt zu Ihnen und zeigt auf die Tasse, begleitet von ");
+                        Console.WriteLine("Sie entnehmen die Tasse und schlürfen direkt den ersten Schluck ab. Der Kaffee schmeckt großartig. Die Katze kommt zu Ihnen und zeigt auf die Tasse, begleitet von ");
                         Console.WriteLine("\"Miauuuuuuuuu\". Sie fragen sich, ob die Katze einen Schluck Kaffee möchte und halten ihr die Tasse hin. Tatsächlich führt die Katze ihre Zunge in den heißen Kaffee ");
                         Console.WriteLine("und beginnt diesen zu trinken. Sie wirkt äußerstt zufrieden. Kein Wunder, der Kaffee ist wirklich klasse.");
                         Console.WriteLine("Plötzlich beginnt die Katze gleißend hell zu leuchten, und auf einmal hat sie sich in eine wunderschöne Prinzessin verwandelt, die sich unsterblich in Sie verliebt hat.");
@@ -159,7 +159,7 @@ namespace Aufgabe6
                         "besser der Blaskapelle nicht zugehört hätten. Von Blasmusik wird Ihnen schließlich immer schlecht.");
                     Console.WriteLine("In der Nähe ist eine öffentliche Toilette, diese könnten Sie möglicherweise brauchen." +
                         "Sie könnten aber auch versuchen nach Hause zu laufen und sich auszuruhen.");
-                    Console.Write("Was ihr nächster Schritt? Wählen Sie \"Toilette\" oder \"ausruhen\": ");
+                    Console.Write("Was ist ihr nächster Schritt? Wählen Sie \"Toilette\" oder \"ausruhen\": ");
 
                     if (Auswahl("Toilette", "ausruhen")) // Toilette       #11
                     {
@@ -299,7 +299,7 @@ namespace Aufgabe6
                         "ziehen, oder sie ziehen an seinem Bart.");
                     Console.Write("Wählen Sie nun. \"Finger\" oder \"Bart\"?: ");
 
-                    if (Auswahl("Finger", "Bart")) // Figner        #14
+                    if (Auswahl("Finger", "Bart")) // Finger        #14
                     {
                         Console.WriteLine("In dem Moment als sie kräftig an seinem Finger ziehen, verpasst Chuck Norris Ihnen " +
                             "einen Roundhouse-Kick in den Bauch, danach furzt er.");
